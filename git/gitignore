@@ -6,7 +6,7 @@
 ehthumbs.db
 Thumbs.db
 .idea
-app/storage
+app/storage/*
 bootstrap/compiled.php
 vendor
 composer.phar
